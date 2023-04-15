@@ -183,3 +183,6 @@ fabric.properties
 
 # idea folder, uncomment if you don't need it
 .idea
+
+# sensitive data file
+src/data/echo_reports.7z
