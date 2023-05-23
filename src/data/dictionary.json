@@ -1,0 +1,261 @@
+{
+  "Aorta gyök": [
+    "Aorta gyök",
+    "Ao gyök",
+    "Aorta",
+    "Ao"
+  ],
+  "Aorta bulbus": [
+    "Aorta bulbus",
+    "Ao bulbus"
+  ],
+  "Aorta ascendens": [
+    "Aorta ascendens",
+    "Ao scendens",
+    "Aorta asc",
+    "Ao asc"
+  ],
+  "Aorta billentyű nyitás": [
+    "Aorta billentyű nyitás",
+    "Aorta bill nyitás",
+    "Aorta bill nyit",
+    "Aorta bill nyitás",
+    "Aorta bill nyit",
+    "Ao billentyű nyitás",
+    "Ao bill nyitás",
+    "Ao bill nyit",
+    "Ao bill nyitás",
+    "Ao bill nyit"
+  ],
+  "Bal pitvar (M-mode)": [
+    "Bal pitvar",
+    "M-mód BP",
+    "BP M-mód",
+    "M-mód bal pitvar",
+    "Bal pitvar M-mód",
+    "LA M-mode",
+    "M-mode LA"
+  ],
+  "Jobb kamra (M-mode)": [
+    "Jobb kamra",
+    "M-mód JK",
+    "JK M-mód",
+    "M-mód jobb kamra",
+    "Jobb kamra M-mód",
+    "RV M-mode",
+    "M-mode RV"
+  ],
+  "Bal kamra diast. átm.": [
+    "Bal kamra diast átm",
+    "Bal kamra diastoles átmérő",
+    "BK diast átm",
+    "BK diastoles átmérő",
+    "Dd",
+    "LVEDD"
+  ],
+  "Bal kamra syst. átm.": [
+    "Bal kamra syst átm",
+    "Bal kamra systoles átmérő",
+    "BK syst átm",
+    "BK systoles átmérő",
+    "Ds",
+    "LVESD"
+  ],
+  "Septum végdiast.": [
+    "Septum végdiast",
+    "Septum diast",
+    "Szeptum diast",
+    "Septum",
+    "Szeptum",
+    "IVS"
+  ],
+  "Septum syst.": [
+    "Septum syst",
+    "Szeptum syst",
+    "S-IVS"
+  ],
+  "Hátsófal végdiast.": [
+    "Hátsófal végdiast",
+    "Hátsófal diast",
+    "HF végdiast",
+    "HF diast",
+    "PW végdiast",
+    "PW diast",
+    "Hátsófal",
+    "HF",
+    "PW"
+  ],
+  "Hátsófal syst.": [
+    "Hátsófal syst",
+    "HF syst",
+    "PW syst"
+  ],
+  "E-IVS": [
+    "E-IVS",
+    "EIVS"
+  ],
+  "E": [
+    "E"
+  ],
+  "A": [
+    "A"
+  ],
+  "EDT": [
+    "EDT",
+    "DT",
+    "DecT",
+    "E DecT"
+  ],
+  "E'": [
+    "E'",
+    "Ea"
+  ],
+  "E' lat.": [
+    "E' lat",
+    "E' lateralis"
+  ],
+  "E' med.": [
+    "E' med",
+    "E' medialis",
+    "E' septalis",
+    "E' szeptális"
+  ],
+  "EF": [
+    "EF",
+    "ejekciós frakció",
+    "ejection fraction"
+  ],
+  "EF (Tz)": [
+    "EF Tz",
+    "EF Teicholz"
+  ],
+  "EF (Simpson)": [
+    "EF Simpson",
+    "EF Simp"
+  ],
+  "EF (vizuális becslés)": [
+    "EF kb",
+    "EF cca",
+    "EF becsült",
+    "EF csúcsi nézetből",
+    "EF csúcsi 4 üregből",
+    "EF 4 chamber",
+    "EF 4 ch",
+    "EF látvány alapján"
+  ],
+  "2D bal pitvar": [
+    "Bal pitvar csúcsi nézetből",
+    "BP csúcsi nézetből",
+    "Bal pitvar 4 üreg",
+    "BP 4 üreg",
+    "LA csúcsi nézetből",
+    "LA 4 üreg",
+    "LA 4 chamber",
+    "LA 4 ch",
+    "2D bal pitvar",
+    "2D BP",
+    "2D LA"
+  ],
+  "2D jobb pitvar": [
+    "Jobb pitvar csúcsi nézetből",
+    "JP csúcsi nézetből",
+    "Jobb pitvar 4 üreg",
+    "JP 4 üreg",
+    "RA csúcsi nézetből",
+    "RA 4 üreg",
+    "RA 4 chamber",
+    "RA 4 ch",
+    "2D jobb pitvar",
+    "2D JP",
+    "2D RA",
+    "Jobb pitvar"
+  ],
+  "2D jobb kamra": [
+    "Jobb kamra csúcsi nézetből",
+    "JK csúcsi nézetből",
+    "Jobb kamra 4 üreg",
+    "JK 4 üreg",
+    "RV csúcsi nézetből",
+    "RV 4 üreg",
+    "RV 4 chamber",
+    "RV 4 ch",
+    "2D jobb kamra",
+    "2D JK",
+    "2D RV"
+  ],
+  "TAPSE": [
+    "TAPSE"
+  ],
+  "Ao vmax.": [
+    "Ao vmax",
+    "Aorta vmax",
+    "Aorta kiáramlás",
+    "Ao max kiáramlási sebesség",
+    "Aorta max kiáramlási sebesség",
+    "Ao maximális kiáramlási sebesség",
+    "Aorta maximális kiáramlási sebesség"
+  ],
+  "Bal kamrai kiáramlás": [
+    "Bal kamrai kiáramlás",
+    "BK kiáramlás",
+    "LV kiáramlás"
+  ],
+  "LVOTVTI": [
+    "LVOTVTI",
+    "VTILVOT"
+  ],
+  "Pulmonáris kiáramlás": [
+    "Pulmonáris kiáramlás",
+    "Pulm kiáramlás",
+    "Pulm kiáram"
+  ],
+  "PVAT": [
+    "PVAT",
+    "Pulm valv acT"
+  ],
+  "Becsült jobb kamrai nyomás": [
+    "Becsült jobb kamrai nyomás",
+    "Becsült JK nyomás",
+    "Becsült JK ny",
+    "Becsült RV pressure",
+    "Becsült RV nyomás"
+  ],
+  "Aorta billentyű systoles gráiens": [
+    "Aorta billentyű systoles gráiens",
+    "Ao billentyű systoles gráiens",
+    "Ao bill systoles grádiens",
+    "Ao bill syst grádianes",
+    "Ao bill syst grad",
+    "Ao syst grad",
+    "Aorta syst grad"
+  ],
+  "AVA": [
+    "AVA",
+    "Aorta billenytű area"
+  ],
+  "Mért mitrális area": [
+    "Mért mitrális area",
+    "Mitralis area",
+    "Mitr area",
+    "Planimetrias mitralis area",
+    "Plan mitr area"
+  ],
+  "Mitrális diastoles átlag grádiens": [
+    "Mitrális diastoles átlag grádiens",
+    "Mitr diastoles átlag grádiens",
+    "Mitr diast átlag grádiens",
+    "Mitr diast átl grádiens",
+    "Mitr diast átl grad"
+  ],
+  "MVVTI": [
+    "MVVTI",
+    "VTIMV"
+  ],
+  "MVVTI/LVOTVTI": [
+    "MVVTI/LVOTVTI",
+    "VTIMV/VTILVOT"
+  ],
+  "Pulmonalis kiáramlás": [
+    "p pulm"
+  ]
+}
